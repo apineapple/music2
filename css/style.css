@@ -616,20 +616,6 @@ body a:hover {
 .artist.is-verified .profile__img {
   position: relative;
 }
-.artist.is-verified .profile__img:after {
-  content: "\f3fd";
-  position: absolute;
-  bottom: 5px;
-  right: 25px;
-  color: white;
-  background: #4688d7;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  text-align: center;
-  font-size: 18px;
-  line-height: 1;
-}
 .artist__content {
   padding: 15px;
 }
