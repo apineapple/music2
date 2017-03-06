@@ -39,7 +39,7 @@ body a:hover {
   color: #181818;
   padding-left: 30px;
   outline: none;
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/7022/ios-search.svg);
+  background-image: url(ios-search.svg);
   background-repeat: no-repeat;
   background-size: 10%;
   background-position: 5px;
@@ -461,7 +461,7 @@ body a:hover {
   height: 320px;
   border-bottom: 1px solid #282828;
   position: relative;
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/7022/spotify_img_bground.png);
+  background-image: url(spotify_img_bground.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -482,7 +482,7 @@ body a:hover {
   height: 100%;
   z-index: 0;
   opacity: 0.5;
-  background-image: url(http://image.iheart.com/images/rovi/1080/0003/905/MI0003905645.jpg);
+  background-image: url(MI0003905645.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
