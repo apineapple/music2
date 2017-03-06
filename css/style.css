@@ -617,7 +617,6 @@ body a:hover {
   position: relative;
 }
 .artist.is-verified .profile__img:after {
-  font-family: "Ionicons";
   content: "\f3fd";
   position: absolute;
   bottom: 5px;
